@@ -10,7 +10,6 @@ import org.springframework.web.service.annotation.PutExchange;
 
 import java.util.List;
 
-@HttpExchange
 public interface TodoClient {
 
     @GetExchange("/todos")

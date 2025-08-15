@@ -1,0 +1,10 @@
+hello
+world
+spring
+boot
+application
+service
+component
+controller
+dictionary
+spellcheck

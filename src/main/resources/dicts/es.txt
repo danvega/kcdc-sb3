@@ -1,0 +1,10 @@
+hola
+mundo
+primavera
+bota
+aplicación
+servicio
+componente
+controlador
+diccionario
+corrector

@@ -1,0 +1,10 @@
+bonjour
+monde
+printemps
+botte
+application
+service
+composant
+contrôleur
+dictionnaire
+correcteur

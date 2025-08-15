@@ -38,13 +38,3 @@ This is a collection of some of my favorite features in Spring Boot 3.
 ### Spring Boot 3.5
 
 - [Load Properties from Environment Variables](src/main/java/dev/danvega/sb3/env/README.md)
-
-
-Spring Boot 3/4
-- Intro & 3.0 = 18:30
-- 3.1 -  9 min
-- 3.2 - 10 min no demos (38:47)
-- 3.3 - 3 min with demo
-- 3.4 - 5 min with demo
-- 3.5 - 3 min with demo (49:47)
-- 4.0 - 8:30
